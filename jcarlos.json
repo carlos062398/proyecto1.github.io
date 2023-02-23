@@ -1,0 +1,33 @@
+{
+  "Nombre": "click familia",
+  "ciudad": "Tunja Boyaca",
+  "creado": 1998,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Profecional en psicologia",
+      "age": 40,
+      "Nombres": "Deida poveda",
+      "powers": [
+        "infancia y adolecancia"
+      ]
+    },
+    {
+      "name": "Profecional en derecho",
+      "age": 39,
+      "Nombres": "Amanda Avila",
+      "powers": [
+        "Derecho laboral"
+      ]
+    },
+    {
+      "name": "Profecional en contabilidad",
+      "age": 36,
+      "Nombres": "Mari luz Camargo",
+      "powers": [
+        "Finanzas corporativas"
+      ]
+    }
+  ]
+}
